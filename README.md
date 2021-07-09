@@ -12,4 +12,3 @@
 
 
  
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeph44&show_icons=true&title_color=df2a2a&locale=pt-br&layout=compact" alt="zeph44" /></p>
