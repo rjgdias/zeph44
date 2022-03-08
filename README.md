@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Data Science | RJ, BRAZIL</h3>
+<h3 align="center">Data Science, C and Web| RJ, BRAZIL</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
